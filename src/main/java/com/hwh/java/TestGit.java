@@ -10,6 +10,6 @@ public class TestGit {
         System.out.println("hello Git2");
         System.out.println("hello Git3");
         System.out.println("master 1");
-
+        System.out.println("hot fix 2");
     }
 }
